@@ -1,8 +1,8 @@
-# React + Vite
+ใช้คำสั่ง npm run dev เพื่อเปิดโปรเจค
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ขั้นตอนการใช้งาน
+1 ล็อคอินเข้าไปใช้งาน
+2 เพิ่อข้อมูลงานที่ต้องการจะลิส
+3 สามารถแก้ไข้หรือลบข้อมูลงานที่ต้องกาารได้
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+รหัสเข้าสู่ระบบ สามารถดูได้ที่ไฟล์ Backend ข้างบนเป็นemail และข้างล่างเป็นpassword
