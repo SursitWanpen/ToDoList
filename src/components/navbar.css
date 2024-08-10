@@ -1,0 +1,17 @@
+
+.containernav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1rem 5rem;
+    border-bottom:1px solid rgb(228, 226, 226)  ;
+}
+.Loguot{
+    display: flex;
+    align-items: center;
+
+}
+i{
+    font-size: 35px;
+    padding-left: 1rem;
+}

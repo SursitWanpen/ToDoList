@@ -1,0 +1,44 @@
+.containeradd{
+    box-sizing: border-box;
+    width: 500px;
+    margin:  5rem auto;
+    border: 1.5px solid rgb(0, 0, 0);
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 1.5rem;
+    border-bottom:1px solid rgb(206, 203, 203) ;
+}
+.navbar button{
+    height: 40px;
+    font-weight: bold;
+    width: 110px;
+    margin-bottom: 15px;
+    background-color: rgb(1, 1, 1);
+    border: 1px solid black;
+    color: white;
+}
+
+.navbar button:hover{
+    background-color: rgb(34, 34, 34);
+    color: rgb(255, 255, 255);
+}
+
+.Form{
+    margin: 1.5rem ;
+    display: block;
+}
+.form-input{
+    margin-bottom:1.5rem ;
+}
+.form-input input{
+    width: 100%;
+    height: 50px;
+}
+.valid{
+    border:1.5px solid red  ;
+}
+.invalid{
+    border:1.5px solid green  ;
+}

@@ -1,0 +1,87 @@
+.containerHome {
+    margin: 5rem auto;
+    width: 700px;
+    border: 2px solid rgb(0, 0, 0);
+    display: block;
+}
+.arae-task{
+    max-height: 500px; 
+    overflow-y: auto; 
+}
+
+.containerHome h1 {
+    margin:2rem;
+}
+
+.addtask {
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem;
+    
+}
+
+.button_Add button {
+    font-weight: bold;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width: 140px;
+    height: 40px;
+    font-size: 15px;
+    border: 1px solid rgb(28, 27, 27);
+}
+
+.button_Add button:hover {
+    background-color: rgb(29, 29, 29);
+    color: rgb(255, 255, 255);
+}
+
+.All-Task {
+    padding: 1rem;
+    margin: 3rem auto;
+    width: 80%;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.chaek-box {
+    display: flex;
+    margin-bottom: 1rem;
+    justify-content: space-between;
+}
+
+.chaek-box h3 {
+    padding-left: 1.5rem;
+}
+
+.edit-delete {
+    display: flex;
+
+}
+
+.Descrip {
+    margin: 1rem 2rem;
+}
+
+.bar-home {
+    display: flex;
+}
+
+.date {
+    color: red;
+    font-size: 17px;
+}
+
+.edit-icon {
+    color: green;
+    font-size: 30px;
+}
+
+.delete-icon {
+    color: red;
+    font-size: 33px;
+}
+.model_de{
+    margin: 10px auto;
+}
+.model_de *{
+    margin: 0.5rem;
+}
