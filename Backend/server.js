@@ -1,6 +1,6 @@
 import express from 'express';
 import axios from 'axios';
-import { promises as fs } from 'fs';
+    
 
 const API = 'https://66b613d4b5ae2d11eb65d19c.mockapi.io/UserPass';
 const app = express();
